@@ -1,17 +1,16 @@
-<h1 align="center">Hi, I'm Satria Bahari</h1>
-<h3 align="center">A Web and Mobile Developer</h3>
+<h1 align="center">Hi, I'm Arif Supriyanto</h1>
+<h3 align="center">ERP & Business Tech</h3>
 
-I'm Satria Bahari, a student majoring in Information Systems at the University of Jambi. I have a strong interest in frontend development. With a solid foundation in JavaScript and TypeScript, as well as a comprehensive understanding of various frontend libraries and frameworks, I have navigated the ever-evolving landscape of web development with enthusiasm and dedication.
+I am a student majoring in Information Systems at Bina Sarana Informatics University with a strong passion for developing systems based on business technology, particularly in the areas of ERP, data science, and software development. With a solid foundation in JavaScript and TypeScript, along with an in-depth understanding of various frontend libraries and frameworks, I build digital solutions that are efficient, scalable, and user-friendly.
 
-I focus on creating web applications that not only provide precise experiences but are also user-friendly. My specialization includes JavaScript and TypeScript, along with frameworks such as React, Vite, and Next.js. As a quick learner and adaptive thinker, I thrive in a dynamic environment where innovation is a driving force. My collaborative nature allows me to seamlessly integrate with teams, contributing not only to my technical skills but also embodying a humble attitude that values input from every team member.
+I focus on developing web applications that enhance operational efficiency and user experience, especially within enterprise contexts and business needs. My agility in learning new things and adaptability in dynamic environments allow me to collaborate easily within teams. I believe that technology is not just a tool, but a strategy to create positive change in the business world.
 
 ---
 
 ### 📫 Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satriabaharii@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/satriabaharii__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satriabahari)
-[![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@satriabaharii)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arf.supriyanto22@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arifsupriyanto_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifsupriyanto22)
 
 ---
 
